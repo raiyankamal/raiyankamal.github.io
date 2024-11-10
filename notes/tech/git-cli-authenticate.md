@@ -1,14 +1,17 @@
 # Authentication in Git CLI
 
 To authenticate
-
-> gh auth login
+```
+$ gh auth login
+```
 
 To logout
-
-> gh auth logout
+```
+$ gh auth logout
+```
 
 To check status
-
-> gh auth status
+```
+$ gh auth status
+```
 

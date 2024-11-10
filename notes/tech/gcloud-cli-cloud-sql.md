@@ -5,5 +5,7 @@
 
 To list all backups
 
-> gcloud sql backups list --instance=<db-instance-name>
+```
+$ gcloud sql backups list --instance=<db-instance-name>
+```
 
