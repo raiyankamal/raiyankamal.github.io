@@ -1,0 +1,2 @@
+# rknotes
+my static site
