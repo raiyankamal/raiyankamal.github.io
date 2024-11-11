@@ -11,5 +11,7 @@ Want to join me? Help needed.
 
 Tech notes
 
+- [./notes/tech/gcloud-cli-cloud-sql](./notes/tech/gcloud-cli-cloud-sql.md)
+- [./notes/tech/git-cli-authenticate](./notes/tech/git-cli-authenticate.md)
 
 
