@@ -11,7 +11,13 @@ Want to join me? Help needed.
 
 ## Tech notes
 
-- [./notes/tech/gcloud-cli-cloud-sql](./notes/tech/gcloud-cli-cloud-sql.md)
-- [./notes/tech/git-cli-authenticate](./notes/tech/git-cli-authenticate.md)
+[./notes/tech/docker-frequently-used.md](./notes/tech/docker-frequently-used.md)
+[./notes/tech/gcloud-cli-artifact-registry.md](./notes/tech/gcloud-cli-artifact-registry.md)
+[./notes/tech/gcloud-cli-cloud-run-jobs.md](./notes/tech/gcloud-cli-cloud-run-jobs.md)
+[./notes/tech/gcloud-cli-cloud-sql.md](./notes/tech/gcloud-cli-cloud-sql.md)
+[./notes/tech/gcloud-iam-permissions.md](./notes/tech/gcloud-iam-permissions.md)
+[./notes/tech/git-cli-authenticate.md](./notes/tech/git-cli-authenticate.md)
+[./notes/tech/kubectl-frequently-used.md](./notes/tech/kubectl-frequently-used.md)
+[./notes/tech/lxml-quick-tutorial.md](./notes/tech/lxml-quick-tutorial.md)
 
 
