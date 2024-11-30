@@ -11,13 +11,11 @@ Want to join me? Help needed.
 
 ## Tech notes
 
-[./notes/tech/docker-frequently-used.md](./notes/tech/docker-frequently-used.md)
-[./notes/tech/gcloud-cli-artifact-registry.md](./notes/tech/gcloud-cli-artifact-registry.md)
-[./notes/tech/gcloud-cli-cloud-run-jobs.md](./notes/tech/gcloud-cli-cloud-run-jobs.md)
-[./notes/tech/gcloud-cli-cloud-sql.md](./notes/tech/gcloud-cli-cloud-sql.md)
-[./notes/tech/gcloud-iam-permissions.md](./notes/tech/gcloud-iam-permissions.md)
-[./notes/tech/git-cli-authenticate.md](./notes/tech/git-cli-authenticate.md)
-[./notes/tech/kubectl-frequently-used.md](./notes/tech/kubectl-frequently-used.md)
-[./notes/tech/lxml-quick-tutorial.md](./notes/tech/lxml-quick-tutorial.md)
-
-
+- [Frequently used kubectl commands](./notes/tech/kubectl-frequently-used.md)
+- [To check the permissions granted to a service account.](./notes/tech/gcloud-iam-permissions.md)
+- [Frequently used docker commands](./notes/tech/docker-frequently-used.md)
+- [Managing Cloud Run Jobs with Gcloud CLI](./notes/tech/gcloud-cli-cloud-run-jobs.md)
+- [Managing Cloud SQL with gcloud](./notes/tech/gcloud-cli-cloud-sql.md)
+- [Managin artifacts with gcloud](./notes/tech/gcloud-cli-artifact-registry.md)
+- [A Quick Tutorial on LXML](./notes/tech/lxml-quick-tutorial.md)
+- [Authentication in Git CLI](./notes/tech/git-cli-authenticate.md)
