@@ -7,7 +7,7 @@ This is not a portfolio in the typical sense. It's more like a notebook, full of
 
 Want to recruite me? Resume.
 
-Want to join me? Help needed.
+Want to join me? [Help needed](./pages/help-needed.md).
 
 ## Tech notes
 
