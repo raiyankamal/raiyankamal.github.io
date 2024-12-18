@@ -9,3 +9,8 @@ To list all backups
 $ gcloud sql backups list --instance=<db-instance-name>
 ```
 
+To change the password of a user
+
+```
+$ gcloud sql users set-password <username> --password=<foopass> --instance=<db-instance-name>
+```
