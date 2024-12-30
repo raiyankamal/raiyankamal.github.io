@@ -10,3 +10,7 @@ Export a job from a local yaml file.
 gcloud run jobs replace job.yaml
 ```
 
+Execute a job
+```
+gcloud run jobs execute <job-name>
+```
