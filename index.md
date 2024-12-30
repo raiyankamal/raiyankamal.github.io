@@ -3,9 +3,9 @@
 15 years in software engineering, 25 years of writing code.
 Interested in tech adoption, environmentally responsible businesses and startups.
 
-This is not a portfolio in the typical sense. It's more like a notebook, full of doodles and scribbles and some useful information.
+This is not a portfolio in the typical sense; more like a notebook, full of doodles and scribbles and some useful information.
 
-Want to recruite me? Resume.
+Want to recruite me? [Resume](./pages/raiyan-kamal-resume.md).
 
 Want to join me? [Help needed](./pages/help-needed.md).
 
