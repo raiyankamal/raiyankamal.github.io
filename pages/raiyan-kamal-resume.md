@@ -15,7 +15,7 @@ Toronto, ON, Canada.
 ## Lead Software Engineer, ADESA (Nov 2018 - Nov 2019)
 Toronto, ON, Canada.
 
-- Led a team of Enablers (SAFE4) responsible for reducing impediments all SCRUM teams in the organization.
+- Led a team of Enablers (SAFE4) responsible for reducing impediments for all SCRUM teams in the organization.
 - Provided architectural guidelines for process automation.
 - Built and maintained internal tools for QA automation, quality monitoring, product validation.
 
@@ -30,8 +30,8 @@ Toronto, ON, Canada.
 ## Senior Software Engineer, IOU Concepts Inc. (Nov 2014 - July 2016)
 
 Hamilton, ON, Canada.
-- Worked as an IC on a real time platform for running gamified campaigns for positive social impact.
-
+- IC working on a real time platform for running gamified campaigns for positive social impact.
+- Maintained CI/CD pipelines.
 
 # Education
 
