@@ -3,6 +3,12 @@
 
 **Make sure the correct project is selected before running these commands**
 
+To list databses in an instance.
+
+```
+$ gcloud sql databases list --instance=<db-instance-name>
+```
+
 To list all backups
 
 ```

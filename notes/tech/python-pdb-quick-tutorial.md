@@ -12,6 +12,8 @@ def foo(bar: int) -> int:
 
 The actual work of debugging is done in the command line interface. Some frequently used commands:
 
+- `c(ont)`: Continue until the next breakpoint.
 - `n(ext)`: to the next possible statement.
 - `s(tep)`: step into a function while moving next.
 - `p <expression>`: Prints the result after evaluating the given expression.
+- `r(eturn)`: Continue until the current function returns.
