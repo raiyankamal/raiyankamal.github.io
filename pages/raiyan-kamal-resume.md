@@ -1,6 +1,7 @@
 Raiyan Kamal
 ==============
 web: raiyankamal.github.io
+
 git: github.com/raiyankamal
 
 Last updated: 2025-02-xx
@@ -12,11 +13,11 @@ Last updated: 2025-02-xx
 Skills
 ======
 
-Code: Python, Django, Pytest, Locust, JavaScript, NodeJS, VueJS, D3, Puppeteer
-Data: PostgreSQL, MySQL, Elasticsearch, MongoDB, Redis
-Infra: GCP, AWS, Kubernetes
-OS: Linux, Mac OS
-Others: Git, Bitbucket, Jenkins, JIRA, Confluence, Linear
+* Code: Python, Django, Pytest, Locust, JavaScript, NodeJS, VueJS, D3, Puppeteer
+* Data: PostgreSQL, MySQL, Elasticsearch, MongoDB, Redis
+* Infra: GCP, AWS, Kubernetes
+* OS: Linux, Mac OS
+* Others: Git, Bitbucket, Jenkins, JIRA, Confluence, Linear
 
 Employment
 ==========
