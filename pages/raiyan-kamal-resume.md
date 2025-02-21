@@ -1,16 +1,16 @@
 # Raiyan Kamal
-- 15 years in software engineering, 25 years of writing code.
-- Interested in tech-management roles.
-- Currently the Engineering Lead at Akindi Inc., building software for instructors in higher education.
-
+- 10+ years in software engineering, 25 years of writing code.
+- Interested in tech-management roles and consultancy.
+- Currently the Engineering Lead at Akindi Inc., building software for educators.
 
 # Work
 
 ## Lead Engineer, Akindi Inc. (Jan 2020 - Present)
 Toronto, ON, Canada.
-- Repaltformed Akindi's technology from self hosted, Python2, Angular stack to GCP, Python3, Vue3.
-- Managed developers in 3 continents.
 
+- Repaltformed a monolithic Python 2 + Angular web application to multiple microservices built with Python3 + VueJS and deployed on GCP.
+- Built a computer vision solution for automatic grading of students' responses.
+- Managed a development team spread across 3 continents.
 
 ## Lead Software Engineer, ADESA (Nov 2018 - Nov 2019)
 Toronto, ON, Canada.
