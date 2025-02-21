@@ -8,7 +8,7 @@
 ## Lead Engineer, Akindi Inc. (Jan 2020 - Present)
 Toronto, ON, Canada.
 
-- Repaltformed a monolithic Python 2 + Angular web application to multiple microservices built with Python3 + VueJS and deployed on GCP.
+- Replatformed a monolithic Python 2 + Angular web application to multiple microservices built with Python3 + VueJS and deployed on GCP.
 - Built a computer vision solution for automatic grading of students' responses.
 - Managed a development team spread across 3 continents.
 
@@ -25,12 +25,12 @@ Toronto, ON, Canada.
 - Oversaw software development process and spearheaded several projects related to online advertising.
 - Agile coaching for the engineering team.
 - Rearchitected a monolithic ad-serving technology to a microservice based system.
-- Got promoted from Lead Developer to the Head of Engineerinig.
+- Got promoted from Lead Developer to the Head of Engineering.
 
 ## Senior Software Engineer, IOU Concepts Inc. (Nov 2014 - July 2016)
 
 Hamilton, ON, Canada.
-- IC working on a real time platform for running gamified campaigns for positive social impact.
+- IC working on a real-time platform for running gamified campaigns for positive social impact.
 - Maintained CI/CD pipelines.
 
 # Education
