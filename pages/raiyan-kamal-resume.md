@@ -43,13 +43,13 @@ Toronto, ON, Canada.
 
 - Oversaw software development process and spearheaded several projects related to online advertising.
 - Rearchitected a monolithic ad-serving technology to microservice architecture.
-- Acted as an agile coach for the engineering team.
+- Transformed from an ad-hoc software development process to Agile, coached the entire organization on it.
 - Got promoted from Lead Developer to the Head of Engineering.
 
 ## Senior Software Engineer, IOU Concepts Inc. Nov 2014 - July 2016.
 Hamilton, ON, Canada.
 
-- Developed a real-time gaming platform using MeteorJS for running online campaings for charitable organizations.
+- Developed a real-time gaming platform with MeteorJS for running online campaings for charitable organizations.
 - Mentored junior developers.
 - Maintained CI/CD pipelines.
 
@@ -58,5 +58,9 @@ Hamilton, ON, Canada.
 ## MSc. Computer Science (2012-2013)
 University of Windsor, Ontario, Canada.
 
+Thesis: Ant-colony optimization for energy efficiency in wireless sensor networks.
+
 ## BSc. Computer Science & Engineering (2004-2008)
 Bangladesh University of Engineering & Technology, Dhaka, Bangladesh.
+
+Thesis: Parametrically controlled terrain generation.
