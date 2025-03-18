@@ -1,6 +1,6 @@
-# Managin artifacts with gcloud
+# Managing Artifacts with gcloud
 
-(Copied from gcloud)
+(Copied from gcloud documentation)
 
 To list images under the current project, repository, and location:
 
