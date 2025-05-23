@@ -10,4 +10,3 @@ Recruite me? [Resume](./pages/raiyan-kamal-resume.md).
 
 Join me? [Help needed](./pages/help-needed.md).
 
-## Updates

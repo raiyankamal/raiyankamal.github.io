@@ -14,4 +14,11 @@ author:
   name: Raiyan Kamal
 minima:
   nav_pages:
-    - ./pages/help-needed.md
+    - /pages/help-needed.md
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/raiyankamal"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/raiyan-kamal-9877251b/"
