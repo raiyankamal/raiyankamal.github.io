@@ -8,4 +8,10 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: jekyll/minima@0b7ca6b
+title: rknotes
+author:
+  name: Raiyan Kamal
+minima:
+  nav_pages:
+    - ./pages/help-needed.md
