@@ -14,7 +14,8 @@ author:
   name: Raiyan Kamal
 minima:
   nav_pages:
-    - /pages/help-needed.md
+    - pages/help-needed.md
+    - notes/index.md
   social_links:
     - title: GitHub
       icon: github
