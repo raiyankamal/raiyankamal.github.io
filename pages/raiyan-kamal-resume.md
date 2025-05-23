@@ -10,7 +10,7 @@ git: github.com/raiyankamal
 Last updated: 2025-05
 
 * Fullstack with 15 YOE interested in staff engineer, tech-management, teach-leadership roles and consultancy.
-* Currently working at Akindi Inc. as Engineering Lead, building software for educators.
+* Engineering Lead at Akindi Inc., building software for educators.
 * Scrum, TDD, Continuous Integration, Software Architecture, Software Design, DevOps, UX/UI
 
 Skills
