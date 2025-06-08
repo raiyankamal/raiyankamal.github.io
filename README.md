@@ -1,2 +1,1 @@
-# rknotes
-
+Please visit [rknotes](https://raiyankamal.github.io)
