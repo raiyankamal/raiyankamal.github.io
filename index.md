@@ -10,3 +10,8 @@ Recruite me? [Resume](./pages/raiyan-kamal-resume.md).
 
 Join me? [Help needed](./pages/help-needed.md).
 
+### Find me on
+
+- [github](https://github.com/raiyankamal)
+- [LinkedIn](https://www.linkedin.com/in/raiyan-kamal-9877251b/)
+- [itch](https://rknotes.itch.io/)

@@ -1,10 +1,6 @@
----
-layout: page
-title: Raiyan Kamal
----
-
+Raiyan Kamal
+==============
 web: raiyankamal.github.io
-
 git: github.com/raiyankamal
 
 Last updated: 2025-06
