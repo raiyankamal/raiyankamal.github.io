@@ -1,3 +1,12 @@
+---
+title: Managing Artifacts with gcloud
+tags:
+    - gcloud
+    - artifact registry
+    - gcp
+layout: note.njk
+---
+
 # Managing Artifacts with gcloud
 
 (Copied from gcloud documentation)

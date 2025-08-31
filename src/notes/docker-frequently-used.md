@@ -1,3 +1,10 @@
+---
+title: Frequently used docker commands
+tags:
+    - docker
+layout: note.njk
+---
+
 # Frequently used docker commands
 
 Build a docker image, assuming the `Dockerfile` is in the current directory.

@@ -1,3 +1,11 @@
+---
+title: A Quick Tutorial on the Python Debugger
+tags:
+    - python
+    - debugging
+layout: note.njk
+---
+
 # A Quick Tutorial on the Python Debugger
 
 The `pdb` module provides an interactive source code debugger for Python programs.

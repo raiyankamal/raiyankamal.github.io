@@ -1,3 +1,11 @@
+---
+title: Making a log based alert in GCP
+tags:
+    - gcp
+    - observability
+layout: note.njk
+---
+
 # Making a log based alert in GCP
 
 Use a log based alert in GCP if you need to monitor presence or absence of certain patterns in the logs.

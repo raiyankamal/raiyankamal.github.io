@@ -1,3 +1,12 @@
+---
+title: Managing Secrets with gcloud
+tags:
+    - gcloud
+    - secrets
+    - gcp
+layout: note.njk
+---
+
 # Managing Secrets with gcloud
 
 **Make sure the correct project is selected before running these commands**

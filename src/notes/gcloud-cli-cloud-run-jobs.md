@@ -1,4 +1,11 @@
-# Managing Cloud Run Jobs with Gcloud CLI
+---
+title: Managing Cloud Run Jobs with Gcloud CLI
+tags:
+    - gcloud
+    - cloud run
+    - gcp
+layout: note.njk
+---
 
 Export an existing job in yaml format:
 ```

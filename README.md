@@ -1,1 +1,1 @@
-Please visit [rknotes](https://raiyankamal.github.io)
+Please visit [raiyankamal.github.io](https://raiyankamal.github.io)

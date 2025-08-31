@@ -1,0 +1,14 @@
+{% extends "base.njk" %}
+
+{% block body_extra %}
+  <div class='container'>
+  {% for tag in collections.allTags %}
+    <h3>{{ tag }}</h3>
+    <ul>
+      {% for item in collections[tag] %}
+        <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+  </div>
+{% endblock %}

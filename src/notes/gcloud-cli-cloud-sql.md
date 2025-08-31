@@ -1,5 +1,13 @@
-# Managing Cloud SQL with gcloud
+---
+title: Managing Cloud SQL with gcloud
+tags:
+    - gcloud
+    - cloud sql
+    - gcp
+layout: note.njk
+---
 
+# Managing Cloud SQL with gcloud
 
 **Make sure the correct project is selected before running these commands**
 

@@ -1,3 +1,12 @@
+---
+title: Bash Script File & Directory Listing
+tags:
+    - bash
+    - file system
+    - linux
+layout: note.njk
+---
+
 # Bash Script File & Directory Listing
 
 Loop through all files in a directory

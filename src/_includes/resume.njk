@@ -1,0 +1,18 @@
+{% extends "base.njk" %}
+
+{% block main %}
+<main class='container resume'>
+  <div class='preamble row'>
+    <div class='column column-50'>
+      <h1>{{ person_name }}</h1>
+      <p>{{ person_intro }}</p>
+    </div>
+    <div class='links column column-50'>
+      web: <a href='https://raiyankamal.github.io'>raiyankamal.github.io</a></br>
+      git: <a href='https://github.com/raiyankamal'>github.com/raiyankamal</a></br>
+      Last updated: 2025-08</br>
+    </div>
+  </div>
+  <div>{{ content | safe }}</div>
+</main>
+{% endblock %}

@@ -1,5 +1,13 @@
-# Managing Cloud Storage with gcloud
+---
+title: Managing Cloud Storage with gcloud
+tags:
+    - gcloud
+    - cloud storage
+    - gcp
+layout: note.njk
+---
 
+# Managing Cloud Storage with gcloud
 
 **Make sure the correct project is selected before running these commands**
 

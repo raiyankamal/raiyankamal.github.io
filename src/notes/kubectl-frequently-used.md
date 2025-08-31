@@ -1,3 +1,12 @@
+---
+title: Frequently used kubectl commands
+tags:
+    - kubernetes
+    - kubectl
+    - infra
+layout: note.njk
+---
+
 # Frequently used kubectl commands
 
 ## Pods

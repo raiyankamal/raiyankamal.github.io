@@ -1,4 +1,13 @@
+---
+title: A Quick Tutorial on LXML
+tags:
+    - python
+    - xml
+layout: note.njk
+---
 # A Quick Tutorial on LXML
+
+LXML is the de-facto library for processing XML and HTML in the Python language.
 
 Create a new node
 ```

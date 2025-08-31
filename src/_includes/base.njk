@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel='stylesheet' href='/assets/css/milligram.min.css' />
+  <link rel='stylesheet' href='/assets/css/main.css' />
+
+  <title>{{ title }}</title>
+</head>
+<body>
+
+  <nav class='no-print'>
+    <div class='container nav-inner'>
+      <div>
+        <a href='/' class='nav-item'>
+          <img src='/assets/img/rknotes-logo.png' class='home-logo' />
+        </a>
+      </div>
+      <div>
+        <a href='/help-needed' class='nav-item'>Help Needed</a>
+        <a href='/notes' class='nav-item'>Notes</a>
+      </div>
+    </div>
+  </nav>
+
+  {% block main %}
+  <main class='container'>
+    {{ content | safe }}
+  </main>
+  {% endblock %}
+
+  {% block body_extra %}{% endblock %}
+
+  <footer class='no-print'>
+    <div class='container'>
+      <div class='float-left'>&copy; {% year %}</div>
+    </div>
+  </footer>
+</body>
+</html>
