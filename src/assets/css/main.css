@@ -8,6 +8,7 @@ body {
 }
 
 nav {
+    background: #fff;
     height: 5rem;
     width: 100%;
     padding-top: 0.5rem;
@@ -15,6 +16,7 @@ nav {
     position: fixed;
     top: 0px;
     border-bottom: 1px solid #ccc;
+    z-index: 10;
 }
 
 nav .nav-inner {
