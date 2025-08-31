@@ -8,7 +8,6 @@
     "serve": "eleventy --serve"
   },
   "author": "Raiyan Kamal <raiyan.kamal@gmail.com>",
-  "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2"
   }

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Help Needed
+layout: page
 ---
 
 Please reach out in github or linkedin if you are interested in any of the projects listed below.
