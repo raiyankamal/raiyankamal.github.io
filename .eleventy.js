@@ -2,19 +2,35 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection("notes", collection => {
     return collection.getFilteredByGlob("src/notes/*.md");
-  });
+  })
 
-  // Make a collection of all unique tags
-  eleventyConfig.addCollection("allTags", function (collectionApi) {
+  eleventyConfig.addCollection("projects", collection => {
+    return collection.getFilteredByGlob("src/projects/*.md");
+  })
+
+  // Helper method for building a unique tag list from items found udner the given glob.
+  function getTagList(collectionApi, globPattern) {
     let tagSet = new Set();
-    collectionApi.getAll().forEach(item => {
+
+    collectionApi.getFilteredByGlob(globPattern).forEach(item => {
       if ("tags" in item.data) {
         let tags = item.data.tags;
         if (typeof tags === "string") { tags = [tags]; }
         tags.forEach(tag => tagSet.add(tag));
       }
     });
-    return [...tagSet];
+
+    return [...tagSet].sort();
+  }
+
+  // Make a collection of all note tags.
+  eleventyConfig.addCollection("noteTags", function (collectionApi) {
+    return getTagList(collectionApi, 'src/notes/*.md')
+  });
+
+  // Make a collection of all porject tags.
+  eleventyConfig.addCollection("projectTags", function (collectionApi) {
+    return getTagList(collectionApi, 'src/projects/*.md')
   });
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

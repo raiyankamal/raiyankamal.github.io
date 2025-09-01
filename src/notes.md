@@ -1,6 +1,7 @@
 ---
 title: Tech Notes
-layout: directory.njk
+layout: directory
+tagList: noteTags
 ---
 
 # Tech Notes

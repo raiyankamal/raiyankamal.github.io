@@ -1,0 +1,12 @@
+{% extends "base.njk" %}
+
+{% block main %}
+<main class='container'>
+  <h1>{{ title }}</h1>
+  <div>{{ date }}</div>
+  <div class='tags'>
+    {% for tag in tags %}<span class='tag'>{{ tag }}</span>{% endfor %}
+  </div>
+  {{ content | safe }}
+</main>
+{% endblock %}

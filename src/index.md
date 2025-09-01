@@ -5,7 +5,7 @@ layout: home.njk
 
 # Raiyan Kamal
 
-#### Tech Lead with 15 years of experience.
+### Tech Lead with 15 years of experience.
 
 - I write python code for web services and asynchronous jobs.
 - I manage infrastructure on GCP using terraform, gcloud and kubectl.
