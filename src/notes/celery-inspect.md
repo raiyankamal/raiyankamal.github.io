@@ -40,4 +40,4 @@ System level statistics of each job.
 ```
 celery -A <project-name> inspect stats
 ```
-Output is one large JSON object, each key representing a worker.
+Output is one large JSON object, each key representing a worker. Extracting information, specially aggregated values from the verbose output can be daunting. Use [celerysee](https://github.com/raiyankamal/celerysee) or a similar tool for convenience.
