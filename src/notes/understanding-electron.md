@@ -1,5 +1,5 @@
 ---
-title: Understanding Electron
+title: Electron Overview
 tags:
     - electron
     - javscript
@@ -7,7 +7,7 @@ tags:
 layout: note.njk
 ---
 
-# Understanding Electron
+# Electron Overview
 
 Electron is a framework for building cross-platform desktop apps with web technologies — HTML, CSS, and JavaScript. This framework combines the power of Chromium for rendering web content and Node.js for backend.
 
@@ -16,16 +16,17 @@ The core architecture comprises of 2 processes and IPC to pass signals between t
 - Renderer process
 
 ```
-+--------------------+
-|     Main Process   |  <-- Node.js + OS APIs
-|  (ipcMain, app.js) |
-+--------+-----------+
-         ↑   IPC
++---------------------+
+|     Main Process    |  <-- Node.js + OS APIs
+|  (ipcMain, app.js)  |
++--------+------------+
+         ↑
+        IPC
          ↓
-+--------+-----------+
-|  Renderer Process  |  <-- Chromium + (limited Node.js)
-| (UI, ipcRenderer)  |
-+--------------------+
++--------+------------+
+|  Renderer Process   |  <-- Chromium + (limited Node.js)
+| (UI, ipcRenderer)   |
++---------------------+
 ```
 
 ## Main Process
