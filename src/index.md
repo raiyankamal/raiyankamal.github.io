@@ -11,7 +11,7 @@ layout: home.njk
 - I manage infrastructure on GCP using terraform, gcloud and kubectl.
 - I write front end applications using vuejs, vite, webpack and electron.
 
-Find me on: [github](https://github.com/raiyankamal) [LinkedIN](https://www.linkedin.com/in/raiyan-kamal-9877251b/) [itch](https://rknotes.itch.io/)
+Find me on: [{% icon "fa-brands fa-github" %}](https://github.com/raiyankamal) [{% icon "fa-brands fa-linkedin" %}](https://www.linkedin.com/in/raiyan-kamal-9877251b/) [{% icon "fa-brands fa-itch-io" %}](https://rknotes.itch.io/)
 
 Recruite me? [resume](/raiyan-kamal-resume)
 

@@ -34,6 +34,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  eleventyConfig.addShortcode("icon", (iconClass) => `<i class='${iconClass}'></i>`);
 
   eleventyConfig.addPassthroughCopy("src/assets");
 
