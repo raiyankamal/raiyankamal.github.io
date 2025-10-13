@@ -21,8 +21,6 @@ nav {
     background: #fff;
     height: 5rem;
     width: 100%;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
     position: fixed;
     top: 0px;
     border-bottom: 1px solid #ccc;
@@ -35,12 +33,22 @@ nav .nav-inner {
     justify-content: space-between;
 }
 
-nav .nav-item {
-    line-height: 4rem;
+nav .logo-container {
+    /* background-color: red; */
+    height: 5rem;
+    padding: 1rem 0;
 }
 
-nav a.nav-item {
-    margin-right: 2rem;
+nav .logo-container img {
+    vertical-align: middle;
+    height: 100%;
+}
+nav .nav-item {
+    line-height: 5rem;
+}
+
+nav a.nav-item:not(:first-child) {
+    margin-left: 2rem;
 }
 
 nav img {
