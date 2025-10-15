@@ -4,7 +4,7 @@ layout: project
 tags:
     - game development
     - godot
-date: 2015-08
+date: 2025-08
 ---
 
 I picked up game development after a long pause in 2025. I have always admired the aesthetics of 2D top-down view in games. This time I decided to make one. I built a prototype in PyGame. While I enjoyed the process, the outcome was unsatisfactory. It took a long time to just get a basic tile map with auto scroll on the screen. The lack of an authoring environment was a significant impediment. So next I searched for game engines that come with an authoring environment. Godot seemed to be the best option.
