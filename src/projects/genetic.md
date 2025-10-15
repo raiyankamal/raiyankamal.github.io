@@ -5,6 +5,7 @@ tags:
     - information visualization
     - biology
 date: 2011-05
+thumbnail: /assets/img/projects/genetic-algo-visualization/genetic-algo.png
 ---
 
 While working on a different problem that required exploring genetic algorithms, I found out it's quite challenging to inspect individual member in every generation of the algorithm. Out of this need came a simple information visualizer tool.

@@ -60,6 +60,7 @@ main.container {
 }
 
 footer {
+    background-color: red;
     margin: 4rem 0;
 }
 
@@ -73,6 +74,23 @@ span.tag {
     padding: 0.5rem;
     font-size: 1.2rem;
     margin-right: 0.5rem;
+}
+.project-thumbnail-list ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.project-thumbnail-list li {
+    margin-right: 2rem;
+}
+
+.project-thumbnail-list li img {
+    height: 16rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+        padding: 0.5rem;
+    float: left;
 }
 .resume .preamble {
     padding-bottom: 1rem;

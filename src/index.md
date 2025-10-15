@@ -16,3 +16,11 @@ Find me on: [{% icon "fa-brands fa-github" %}](https://github.com/raiyankamal) [
 Recruite me? [resume](/raiyan-kamal-resume)
 
 Work with me? [help needed](/help-needed)
+
+### Stuffs I built
+
+<div class='project-thumbnail-list'>
+{% for project in collections.projects | reverse %}
+- [![]({{ project.data.thumbnail }})]({{ project.url }})
+{% endfor %}
+</div>

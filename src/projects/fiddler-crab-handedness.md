@@ -5,14 +5,15 @@ tags:
     - computer vision
     - biology
 date: 2011-07
+thumbnail: /assets/img/projects/fiddler-crab-handedness/fid1.jpg
 ---
 
 Members of the genus *Uca* are generally known as Fiddler crabs for the overgrown claws of their males. The following algorithm detects a male fiddler crabs handedness from a photograph. The algorithm was implemented using **Matlab R2009a**.
 
 The accompanying photos were taken by me near the mangrove forest at Rezu Khal, Cox's Bazar, Bangladesh.
 
-![image info](/assets/img/projects/fiddler-crab-handedness/fid1.jpg)
-![image info](/assets/img/projects/fiddler-crab-handedness/fid2.jpg)
+![fiddler crab handedness detection example](/assets/img/projects/fiddler-crab-handedness/fid1.jpg)
+![fiddler crab handedness detection example](/assets/img/projects/fiddler-crab-handedness/fid2.jpg)
 
 #### Assumptions
 The photo was taken from front, close enough for the specimen to occupy significant portion of the frame.
