@@ -8,8 +8,12 @@ date: 2025-08
 thumbnail: /assets/img/projects/kuber-game/2025-10-14.png
 ---
 
-I picked up game development after a long pause in 2025. I have always admired the aesthetics of 2D top-down view in games. This time I decided to make one. I built a prototype in PyGame. While I enjoyed the process, the outcome was unsatisfactory. It took a long time to just get a basic tile map with auto scroll on the screen. The lack of an authoring environment was a significant impediment. So next I searched for game engines that come with an authoring environment. Godot seemed to be the best option.
+I picked up game development after a long pause in 2025. This time I decided to make a 2d game with top-down view.
 
-Development for Kuber began in Godot. First I decided to build the map, then design characters and finally get to coding. A set of tiles on itch.io looked really cute and matched my vision. I used those to design the first level.
+An initial prototype was built in PyGame, but progress quickly revealed some limitations. Even getting a simple auto-scrolling tile map on screen required a significant amount of time, and the absence of an authoring environment made iteration slow and cumbersome.
+
+This led me to search for game engines with an integrated authoring environment. Godot stood out as the most suitable choice.
+
+Development of Kuber began there. The workflow started with building the world: creating the map first, followed by character design, and then coding. A cute tile set discovered on itch.io aligned well with the intended style and became the foundation for the game’s first level.
 
 ![Kuber game scene](/assets/img/projects/kuber-game/2025-10-14.png)
